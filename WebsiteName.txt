@@ -1,0 +1,14 @@
+Stack Overflow: https://stackoverflow.com/
+GitHub: https://github.com/
+MDN Web Docs: https://developer.mozilla.org/en-US/
+Hacker News: https://news.ycombinator.com/
+LeetCode: https://leetcode.com/
+Python.org: https://www.python.org/
+Real Python: https://realpython.com/
+Talk Python to Me: https://talkpythontome.com/
+W3Schools: https://www.w3schools.com/
+CSS-Tricks: https://css-tricks.com/
+JavaScript Tutorial: https://www.w3schools.com/js/
+Android Developers: https://developer.android.com/
+iOS Developer Library: https://developer.apple.com/ios/
+Flutter: https://flutter.dev/
